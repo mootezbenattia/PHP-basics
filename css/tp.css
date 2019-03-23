@@ -34,3 +34,8 @@ label
     font: outline;
     stroke-dashoffset: 50%; 
 }
+.f
+{
+    background-color: red;
+    border-color: red;
+}
