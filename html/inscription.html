@@ -12,7 +12,7 @@
         <center><a href="connexion.html" ><button >Connexion</button></a></center><br/>
         <center><a href="index.html" ><button >Home</button></a></center><br/><br><br>
         <table>
-            <form>
+            <form method="get" action="">
                 <tr><td><label for ="Nom">Nom</label> </td><td><input type="text" required></td></tr>
                 <tr><td><label for ="prénom">Prénom</label></td><td><input type="text" required></td></tr>
                 <tr><td><label for="tel">Telephone</label></td><td><input type="tel"></td></tr>
@@ -22,7 +22,9 @@
                 <tr><td><label for="nation"></label></td><td><select ><option selected disabled>choisisez votre nationalité </option>
                     <option>Tunisienne</option><option >Francaise</option><option >Anglaise</option><option>Algérienne</option><option >Américainne</option></select></td></tr>
                 <tr><td><label for="int">intéret</label></td><td><input type="checkbox" checked>HTML<br><input type="checkbox">CSS<br><input type="checkbox">java script<br><input type="checkbox">BOOTSTRAPP </td></tr>
-                
+                <tr><td><label for ="mdp">Mot de passe</label> </td><td><input type="password" required></td></tr>
+                <tr><td><label for ="mcp">Confirmer mot de passe</label></td><td><input type="password" required></td></tr>
+                <tr><td><center><input type="submit" value="envoyer" ></center></td><td><center><input type="reset" value="annuler"</center></td></tr>
                 
           </form>
         </table>
