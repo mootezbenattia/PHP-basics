@@ -2,3 +2,10 @@ body
 {
     background-image:url(../images/2.jpg);
 }
+button
+{
+    border-color: orange;
+    
+    background-color: orange;
+    
+}   
