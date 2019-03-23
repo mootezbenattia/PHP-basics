@@ -18,3 +18,19 @@ button
 {
     color:whitesmoke;
 }
+#v
+{
+    background-color: green;
+    border-color: green;
+}
+#f
+{
+    background-color: red;
+    border-color: red;
+}
+label
+{
+    color:orange;
+    font: outline;
+    stroke-dashoffset: 50%; 
+}
