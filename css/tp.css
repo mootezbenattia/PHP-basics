@@ -39,3 +39,16 @@ label
     background-color: red;
     border-color: red;
 }
+h3
+{
+    color:whitesmoke;
+
+}
+li,p
+{
+    color:orange;
+}
+a,legend
+{
+    color:red;
+}
