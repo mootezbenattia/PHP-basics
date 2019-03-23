@@ -11,7 +11,7 @@ button
 }   
 .h
 {
-    color:firebrick;
+    color:rgb(34, 178, 94);
 
 }
 .p1
@@ -33,11 +33,6 @@ label
     color:orange;
     font: outline;
     stroke-dashoffset: 50%; 
-}
-.f
-{
-    background-color: red;
-    border-color: red;
 }
 h3
 {
