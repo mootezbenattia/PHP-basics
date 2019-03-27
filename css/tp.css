@@ -1,17 +1,11 @@
 body
 {
-    background-image:url(../images/2.jpg);
+    background-image:url(../images/164807472-sunrise-wallpapers.jpg);
 }
-button
-{
-    border-color: orange;
-    
-    background-color: orange;
-    
-}   
+
 .h
 {
-    color:rgb(34, 178, 94);
+    color:black;
 
 }
 .p1
@@ -30,7 +24,7 @@ button
 }
 label
 {
-    color:orange;
+    color:black;
     font: outline;
     stroke-dashoffset: 50%; 
 }
@@ -47,3 +41,51 @@ a,legend
 {
     color:red;
 }
+ nav
+ {
+    background-image:url("../images/Hot-3D_4rd_HD.jpg");
+ }
+
+ 
+  .ic
+  {
+      background-color:white;
+      border-radius: 60px 60px 60px 60px;
+  }
+  div{
+      padding: 20px 20px 20px 20px;
+  }
+  h3
+  {
+      
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-style: italic;
+      font-size: 29px;
+      color:black;
+      
+      
+  }
+  #un
+  {
+      text-align: center;
+  }
+  a{
+      padding: 25px;
+  }
+  span 
+  { 
+      margin: 20px;
+  }
+  #tdo
+  {
+      padding-left: 15px;
+  }
+  .cv
+  {
+      color: white;
+      margin:25px;
+  }
+  .num
+  {
+      text-align: center;
+  }
